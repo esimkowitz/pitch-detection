@@ -88,8 +88,8 @@ The `--rm` flag here specifies that Docker should remove the container after you
 Your container is now set up. You can run the following commands to to confirm that everything is working properly:
 
 ```bash
-.\test\test
-.\test\bench
+./test/test
+./test/bench
 ```
 
 A pre-compiled image can be found at [esimkowitz/pitchdetection](https://hub.docker.com/repository/docker/esimkowitz/pitchdetection).
